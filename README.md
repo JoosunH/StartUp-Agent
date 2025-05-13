@@ -35,9 +35,61 @@ Upstart AI is an intelligent, agent-like assistant that helps startup founders a
 
 ```bash
 git clone https://github.com/yourname/upstart-ai.git
-cd upstart-ai```
+cd upstart-ai
+2. Install dependencies
+pip install -r requirements.txt
+3. Set up your API keys
+Create a .env file in the root directory:
+OPENAI_API_KEY=your_openai_key
+SERPAPI_KEY=your_serpapi_key
+4. Launch the app
+streamlit run app.py
+🔄 How It Works
+Enter your startup idea (e.g., "Uber for dog walkers")
 
-### 2. Install dependencies
-bash
+Optionally upload a PDF pitch deck
 
-pip install -r requirements.tx
+The app:
+
+Clarifies the idea using GPT
+
+Analyzes market potential and segments
+
+Retrieves competitors via SerpAPI
+
+Searches past sessions and PDF with semantic search
+
+Suggests specific pivots or improvements
+
+All results are shown in structured output with confidence scores
+✅ Skills Demonstrated
+LLM Orchestration & Prompt Engineering
+
+Multi-step agent reasoning
+
+Semantic vector search (FAISS + sentence-transformers)
+
+Retrieval-Augmented Generation (RAG)
+
+Real-time API integration (SerpAPI)
+
+Streamlit frontend with CSS-based layout and video background
+
+File processing and in-memory caching
+
+JSON logging and session context memory
+Future Improvements
+Export reports as PDF or JSON
+
+Add competitor visualizations (charts)
+
+Embed multiple documents per session
+
+Support multi-user sessions with persistent storage (e.g., SQLite)
+
+---
+
+Let me know if you'd like:
+- A matching `requirements.txt` file
+- A small GIF badge or screenshot for the top
+- A one-line description for GitHub repo tagline or LinkedIn portfolio
