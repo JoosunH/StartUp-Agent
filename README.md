@@ -45,52 +45,45 @@ SERPAPI_KEY=your_serpapi_key
 4. Launch the app
 streamlit run app.py
 ```
+---
 🔄 How It Works
-Enter your startup idea (e.g., "Uber for dog walkers")
+1) Enter your startup idea (e.g., "Uber for dog walkers")
 
-Optionally upload a PDF pitch deck
+2) Optionally upload a PDF pitch deck
 
-The app:
+3) The app:
+  -  Clarifies the idea using GPT
+  -  Analyzes market potential and segments
+  -  Retrieves competitors via SerpAPI
+  -  Searches past sessions and PDF with semantic search
+  -  Suggests specific pivots or improvements
 
-Clarifies the idea using GPT
-
-Analyzes market potential and segments
-
-Retrieves competitors via SerpAPI
-
-Searches past sessions and PDF with semantic search
-
-Suggests specific pivots or improvements
-
-All results are shown in structured output with confidence scores
-✅ Skills Demonstrated
-LLM Orchestration & Prompt Engineering
-
-Multi-step agent reasoning
-
-Semantic vector search (FAISS + sentence-transformers)
-
-Retrieval-Augmented Generation (RAG)
-
-Real-time API integration (SerpAPI)
-
-Streamlit frontend with CSS-based layout and video background
-
-File processing and in-memory caching
-
-JSON logging and session context memory
-Future Improvements
-Export reports as PDF or JSON
-
-Add competitor visualizations (charts)
-
-Embed multiple documents per session
-
-Support multi-user sessions with persistent storage (e.g., SQLite)
-
+4) All results are shown in structured output with confidence scores
 ---
 
+---
+###✅ Skills Demonstrated
+-LLM Orchestration & Prompt Engineering
+
+-Multi-step agent reasoning
+
+-Semantic vector search (FAISS + sentence-transformers)
+
+-Retrieval-Augmented Generation (RAG)
+
+-Real-time API integration (SerpAPI)
+
+-Streamlit frontend with CSS-based layout and video background
+
+-File processing and in-memory caching
+
+-JSON logging and session context memory
+---
+
+
+---
 Let me know if you'd like:
 - A matching `requirements.txt` file
 - A small GIF badge or screenshot for the top
 - A one-line description for GitHub repo tagline or LinkedIn portfolio
+---
