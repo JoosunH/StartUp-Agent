@@ -88,3 +88,5 @@ Let me know if you'd like:
 - A small GIF badge or screenshot for the top
 - A one-line description for GitHub repo tagline or LinkedIn portfolio
 ---
+![Main Profile Screenshot](main%20profile%20screenshot.PNG)
+
