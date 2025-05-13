@@ -35,4 +35,9 @@ Upstart AI is an intelligent, agent-like assistant that helps startup founders a
 
 ```bash
 git clone https://github.com/yourname/upstart-ai.git
-cd upstart-ai
+cd upstart-ai```
+
+### 2. Install dependencies
+bash
+
+pip install -r requirements.tx
