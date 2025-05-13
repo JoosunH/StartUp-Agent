@@ -44,6 +44,7 @@ OPENAI_API_KEY=your_openai_key
 SERPAPI_KEY=your_serpapi_key
 4. Launch the app
 streamlit run app.py
+```
 🔄 How It Works
 Enter your startup idea (e.g., "Uber for dog walkers")
 
