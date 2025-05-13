@@ -91,6 +91,20 @@ Let me know if you'd like:
 ![Main Profile Screenshot](main%20profile%20screenshot.PNG)
 
 ![Page Screenshot](page%20scrreenshot.PNG)
+## Additional Screenshot
+
+Here is another page from the app:
+![Page 2](page2.PNG)
+
+![Outcome 1](outcome1.PNG)
+
+## Additional Output
+
+Here is the second output:
+
+![Output 2](outpit2.PNG)
+
+
 
 
 
