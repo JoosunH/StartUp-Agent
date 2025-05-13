@@ -62,7 +62,7 @@ streamlit run app.py
 ---
 
 ---
-###✅ Skills Demonstrated
+✅ Skills Demonstrated
 -LLM Orchestration & Prompt Engineering
 
 -Multi-step agent reasoning
@@ -78,6 +78,7 @@ streamlit run app.py
 -File processing and in-memory caching
 
 -JSON logging and session context memory
+
 ---
 
 
